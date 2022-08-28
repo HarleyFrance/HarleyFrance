@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarleyFrance
 - 👀 I’m interested in Software Developement, Graphic Design and Dota 2
 - 🌱 I’m currently learning Web Development in The Odin Project
-- 💞️ I’m looking to collaborate on Aspiring Wev Developers
+- 💞️ I’m looking to collaborate on Aspiring Web Developers
 - 📫 How to reach me @Discord 'He1senberg#7306'
 
 <!---
